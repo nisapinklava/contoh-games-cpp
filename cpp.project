@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Project Name="cpp" Version="11000" InternalType="">
+  <VirtualDirectory Name="cpp">
+    <File Name="SNAKE.CPP"/>
+    <File Name="SHOOTING.CPP"/>
+    <File Name="DG_new.cpp"/>
+    <File Name="DG.CPP"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="supermariohd-master">
+    <VirtualDirectory Name="supermariohd-master">
+      <VirtualDirectory Name="source">
+        <File Name="supermariohd-master/supermariohd-master/source/TileMap.h"/>
+        <File Name="supermariohd-master/supermariohd-master/source/SuperMarioGame.h"/>
+        <File Name="supermariohd-master/supermariohd-master/source/SuperMarioGame.cpp"/>
+        <File Name="supermariohd-master/supermariohd-master/source/Pickups.h"/>
+        <File Name="supermariohd-master/supermariohd-master/source/Pickups.cpp"/>
+        <File Name="supermariohd-master/supermariohd-master/source/Mario.h"/>
+        <File Name="supermariohd-master/supermariohd-master/source/Mario.cpp"/>
+        <File Name="supermariohd-master/supermariohd-master/source/main.cpp"/>
+        <File Name="supermariohd-master/supermariohd-master/source/Items.h"/>
+        <File Name="supermariohd-master/supermariohd-master/source/Items.cpp"/>
+        <File Name="supermariohd-master/supermariohd-master/source/Geometry.h"/>
+        <File Name="supermariohd-master/supermariohd-master/source/Geometry.cpp"/>
+        <File Name="supermariohd-master/supermariohd-master/source/GameEngine.h"/>
+        <File Name="supermariohd-master/supermariohd-master/source/GameEngine.cpp"/>
+        <File Name="supermariohd-master/supermariohd-master/source/Enemies.h"/>
+        <File Name="supermariohd-master/supermariohd-master/source/Enemies.cpp"/>
+        <File Name="supermariohd-master/supermariohd-master/source/Blocks.h"/>
+        <File Name="supermariohd-master/supermariohd-master/source/Blocks.cpp"/>
+      </VirtualDirectory>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <VirtualDirectory Name="cppcraft-master">
+    <VirtualDirectory Name="cppcraft-master">
+      <VirtualDirectory Name="src">
+        <File Name="cppcraft-master/cppcraft-master/src/util.h"/>
+        <File Name="cppcraft-master/cppcraft-master/src/util.cpp"/>
+        <File Name="cppcraft-master/cppcraft-master/src/main.cpp"/>
+        <File Name="cppcraft-master/cppcraft-master/src/Inventory.h"/>
+        <File Name="cppcraft-master/cppcraft-master/src/Inventory.cpp"/>
+        <File Name="cppcraft-master/cppcraft-master/src/Header.h"/>
+        <File Name="cppcraft-master/cppcraft-master/src/Controller.h"/>
+        <File Name="cppcraft-master/cppcraft-master/src/Controller.cpp"/>
+        <File Name="cppcraft-master/cppcraft-master/src/config.h"/>
+        <File Name="cppcraft-master/cppcraft-master/src/Camera.h"/>
+        <File Name="cppcraft-master/cppcraft-master/src/Camera.cpp"/>
+        <VirtualDirectory Name="World">
+          <File Name="cppcraft-master/cppcraft-master/src/World/World.h"/>
+          <File Name="cppcraft-master/cppcraft-master/src/World/World.cpp"/>
+          <File Name="cppcraft-master/cppcraft-master/src/World/ChunkController.h"/>
+          <File Name="cppcraft-master/cppcraft-master/src/World/ChunkController.cpp"/>
+          <File Name="cppcraft-master/cppcraft-master/src/World/Chunk.h"/>
+          <File Name="cppcraft-master/cppcraft-master/src/World/Chunk.cpp"/>
+          <File Name="cppcraft-master/cppcraft-master/src/World/BlockUtil.h"/>
+        </VirtualDirectory>
+        <VirtualDirectory Name="Render">
+          <File Name="cppcraft-master/cppcraft-master/src/Render/IRenderer.h"/>
+          <File Name="cppcraft-master/cppcraft-master/src/Render/IRenderer.cpp"/>
+          <File Name="cppcraft-master/cppcraft-master/src/Render/InventoryRenderer.h"/>
+          <File Name="cppcraft-master/cppcraft-master/src/Render/InventoryRenderer.cpp"/>
+          <File Name="cppcraft-master/cppcraft-master/src/Render/EntityBlockRenderer.h"/>
+          <File Name="cppcraft-master/cppcraft-master/src/Render/EntityBlockRenderer.cpp"/>
+          <File Name="cppcraft-master/cppcraft-master/src/Render/BlockRenderer.h"/>
+          <File Name="cppcraft-master/cppcraft-master/src/Render/BlockRenderer.cpp"/>
+        </VirtualDirectory>
+      </VirtualDirectory>
+      <VirtualDirectory Name="deps">
+        <VirtualDirectory Name="proctree">
+          <File Name="cppcraft-master/cppcraft-master/deps/proctree/proctree.h"/>
+          <File Name="cppcraft-master/cppcraft-master/deps/proctree/proctree.cpp"/>
+        </VirtualDirectory>
+        <VirtualDirectory Name="libnoise">
+          <VirtualDirectory Name="include">
+            <VirtualDirectory Name="noise">
+              <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/vectortable.h"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/noisegen.h"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/noise.h"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/misc.h"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/mathconsts.h"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/latlon.h"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/interp.h"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/exception.h"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/basictypes.h"/>
+              <VirtualDirectory Name="module">
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/module/voronoi.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/module/turbulence.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/module/translatepoint.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/module/terrace.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/module/spheres.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/module/select.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/module/scalepoint.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/module/scalebias.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/module/rotatepoint.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/module/ridgedmulti.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/module/power.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/module/perlin.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/module/multiply.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/module/modulebase.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/module/module.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/module/min.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/module/max.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/module/invert.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/module/exponent.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/module/displace.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/module/cylinders.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/module/curve.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/module/const.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/module/clamp.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/module/checkerboard.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/module/cache.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/module/blend.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/module/billow.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/module/add.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/module/abs.h"/>
+              </VirtualDirectory>
+              <VirtualDirectory Name="model">
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/model/sphere.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/model/plane.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/model/model.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/model/line.h"/>
+                <File Name="cppcraft-master/cppcraft-master/deps/libnoise/include/noise/model/cylinder.h"/>
+              </VirtualDirectory>
+            </VirtualDirectory>
+          </VirtualDirectory>
+        </VirtualDirectory>
+        <VirtualDirectory Name="glew-win32">
+          <VirtualDirectory Name="include">
+            <VirtualDirectory Name="GL">
+              <File Name="cppcraft-master/cppcraft-master/deps/glew-win32/include/GL/wglew.h"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/glew-win32/include/GL/glxew.h"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/glew-win32/include/GL/glew.h"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/glew-win32/include/GL/eglew.h"/>
+            </VirtualDirectory>
+          </VirtualDirectory>
+        </VirtualDirectory>
+        <VirtualDirectory Name="glew">
+          <VirtualDirectory Name="src">
+            <File Name="cppcraft-master/cppcraft-master/deps/glew/src/visualinfo.c"/>
+            <File Name="cppcraft-master/cppcraft-master/deps/glew/src/glewinfo.c"/>
+            <File Name="cppcraft-master/cppcraft-master/deps/glew/src/glew.c"/>
+          </VirtualDirectory>
+          <VirtualDirectory Name="include">
+            <VirtualDirectory Name="GL">
+              <File Name="cppcraft-master/cppcraft-master/deps/glew/include/GL/wglew.h"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/glew/include/GL/glxew.h"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/glew/include/GL/glew.h"/>
+            </VirtualDirectory>
+          </VirtualDirectory>
+          <VirtualDirectory Name="auto">
+            <VirtualDirectory Name="src">
+              <File Name="cppcraft-master/cppcraft-master/deps/glew/auto/src/wglew_tail.h"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/glew/auto/src/wglew_mid.h"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/glew/auto/src/wglew_head.h"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/glew/auto/src/mesa_license.h"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/glew/auto/src/khronos_license.h"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/glew/auto/src/glxew_tail.h"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/glew/auto/src/glxew_mid.h"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/glew/auto/src/glxew_head.h"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/glew/auto/src/glew_tail.h"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/glew/auto/src/glew_str_wgl.c"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/glew/auto/src/glew_str_tail.c"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/glew/auto/src/glew_str_head.c"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/glew/auto/src/glew_str_glx.c"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/glew/auto/src/glew_license.h"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/glew/auto/src/glew_init_wgl.c"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/glew/auto/src/glew_init_tail.c"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/glew/auto/src/glew_init_glx.c"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/glew/auto/src/glew_init_gl.c"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/glew/auto/src/glew_head.h"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/glew/auto/src/glew_head.c"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/glew/auto/src/glewinfo_wgl.c"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/glew/auto/src/glewinfo_tail.c"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/glew/auto/src/glewinfo_head.c"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/glew/auto/src/glewinfo_glx.c"/>
+              <File Name="cppcraft-master/cppcraft-master/deps/glew/auto/src/glewinfo_gl.c"/>
+            </VirtualDirectory>
+          </VirtualDirectory>
+        </VirtualDirectory>
+      </VirtualDirectory>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <VirtualDirectory Name="16_Games">
+    <VirtualDirectory Name="16_Games">
+      <VirtualDirectory Name="16 Asteroids">
+        <File Name="16_Games/16_Games/16 Asteroids/main.cpp"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="15 Volleyball">
+        <File Name="16_Games/16_Games/15 Volleyball/main.cpp"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="14 Chess">
+        <File Name="16_Games/16_Games/14 Chess/main.cpp"/>
+        <File Name="16_Games/16_Games/14 Chess/Connector.hpp"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="13 Tron">
+        <File Name="16_Games/16_Games/13 Tron/main.cpp"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="12 Mahjong Solitaire">
+        <File Name="16_Games/16_Games/12 Mahjong Solitaire/main.cpp"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="11 NetWalk (Pipe Puzzle)">
+        <File Name="16_Games/16_Games/11 NetWalk (Pipe Puzzle)/main.cpp"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="10 Bejeweled">
+        <File Name="16_Games/16_Games/10 Bejeweled/main.cpp"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="09 Xonix">
+        <File Name="16_Games/16_Games/09 Xonix/main.cpp"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="08 Outrun">
+        <File Name="16_Games/16_Games/08 Outrun/main.cpp"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="07 Racing (Top Down)">
+        <File Name="16_Games/16_Games/07 Racing (Top Down)/main.cpp"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="06 Fifteen-Puzzle">
+        <File Name="16_Games/16_Games/06 Fifteen-Puzzle/main.cpp"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="05 Minesweeper">
+        <File Name="16_Games/16_Games/05 Minesweeper/main.cpp"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="04 Snake">
+        <File Name="16_Games/16_Games/04 Snake/main.cpp"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="03 Arkanoid">
+        <File Name="16_Games/16_Games/03 Arkanoid/main.cpp"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="02 Doodle Jump">
+        <File Name="16_Games/16_Games/02 Doodle Jump/main.cpp"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="01 Tetris">
+        <File Name="16_Games/16_Games/01 Tetris/main.cpp"/>
+      </VirtualDirectory>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <Description/>
+  <Dependencies/>
+  <Settings Type="Executable">
+    <GlobalSettings>
+      <Compiler Options="" C_Options="" Assembler="">
+        <IncludePath Value="."/>
+      </Compiler>
+      <Linker Options="">
+        <LibraryPath Value="."/>
+      </Linker>
+      <ResourceCompiler Options=""/>
+    </GlobalSettings>
+    <Configuration Name="Debug" CompilerType="MinGW ( MinGW )" DebuggerType="GNU gdb debugger" Type="Executable" BuildCmpWithGlobalSettings="append" BuildLnkWithGlobalSettings="append" BuildResWithGlobalSettings="append">
+      <Compiler Options="-g -Wall" C_Options="" Assembler="" Required="yes" PreCompiledHeader="" PCHInCommandLine="no" PCHFlags="" PCHFlagsPolicy="0">
+        <IncludePath Value="."/>
+      </Compiler>
+      <Linker Options="-O0" Required="yes">
+        <LibraryPath Value="."/>
+        <LibraryPath Value="Debug"/>
+      </Linker>
+      <ResourceCompiler Options="" Required="no"/>
+      <General OutputFile="$(IntermediateDirectory)/$(ProjectName)" IntermediateDirectory="$(ConfigurationName)" Command="$(OutputFile)" CommandArguments="" UseSeparateDebugArgs="no" DebugArguments="" WorkingDirectory="" PauseExecWhenProcTerminates="no" IsGUIProgram="no" IsEnabled="yes"/>
+      <BuildSystem Name="Default"/>
+      <Environment EnvVarSetName="&lt;Use Workspace Settings&gt;" DbgSetName="&lt;Use Global Settings&gt;">
+        <![CDATA[]]>
+      </Environment>
+      <Debugger IsRemote="no" RemoteHostName="" RemoteHostPort="" DebuggerPath="" IsExtended="no">
+        <DebuggerSearchPaths/>
+        <PostConnectCommands/>
+        <StartupCommands/>
+      </Debugger>
+      <PreBuild/>
+      <PostBuild/>
+      <CustomBuild Enabled="no">
+        <RebuildCommand/>
+        <CleanCommand/>
+        <BuildCommand/>
+        <PreprocessFileCommand/>
+        <SingleFileCommand/>
+        <MakefileGenerationCommand/>
+        <ThirdPartyToolName/>
+        <WorkingDirectory/>
+      </CustomBuild>
+      <AdditionalRules>
+        <CustomPostBuild/>
+        <CustomPreBuild/>
+      </AdditionalRules>
+      <Completion EnableCpp11="no" EnableCpp14="no">
+        <ClangCmpFlagsC/>
+        <ClangCmpFlags/>
+        <ClangPP/>
+        <SearchPaths/>
+      </Completion>
+    </Configuration>
+  </Settings>
+</CodeLite_Project>
